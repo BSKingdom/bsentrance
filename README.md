@@ -25,9 +25,9 @@ th{
 table{
 	width:600px;
 	margin-top:0px;
-	margin-right:50px;
+	margin-right:20px;
 	margin-bottom:0px;
-	margin-left:50px;
+	margin-left:20px;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
@@ -42,10 +42,10 @@ tr:hover td{
 </style>
 </head>
 <body>
-<table border="4">
+<table  border="4">
 <caption>黑山羊</caption>
 <tr>
-<th width="298">登录者</th><th width="290">登录次数</th>
+<th width="290">登录者</th><th width="288">登录次数</th>
 </tr>
 <tr>
 <td>李弟诚</td><td>max</td>
