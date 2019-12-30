@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -41,7 +41,7 @@ tr:hover td{
 }
 </style>
 </head>
-<body>
+<body background="http://m.qpic.cn/psc?/V12UAMRI2mMdfh/F1H7YF3BXM1Q*sygiHZL4csuTtoZZtVmouhbD26KMCtUrhxkbN9VciMo1pDNV7QTjQuFzts7Uo.b3CvwO97uiwv9w8R2HhFHaF21ot.7A6I!/b&bo=gAKAAYACgAERBzA!&rf=viewer_4">
 <table width="635"  border="4">
 <caption>黑山羊</caption>
 <tr>
