@@ -1,4 +1,4 @@
-# bsentrace<!doctype html>
+<!doctype html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -25,9 +25,9 @@ th{
 table{
 	width:600px;
 	margin-top:0px;
-	margin-right:auto;
+	margin-right:50px;
 	margin-bottom:0px;
-	margin-left:auto;
+	margin-left:50px;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
@@ -57,4 +57,3 @@ tr:hover td{
 
 </body>
 </html>
-
