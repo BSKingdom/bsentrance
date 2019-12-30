@@ -23,7 +23,7 @@ th{
 	background-color:#FC9;
 }
 table{
-	width:1000px;
+	width:635px;
 	margin-top:0px;
 	margin-right:0px;
 	margin-bottom:0px;
