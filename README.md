@@ -1,6 +1,6 @@
-
+<!doctype html>
 <html>
-<head>
+< 头>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>BSKING</title>
 <meta charset="gb2312">
