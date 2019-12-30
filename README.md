@@ -45,7 +45,7 @@ tr:hover td{
 <table width="635"  border="4">
 <caption>黑山羊</caption>
 <tr>
-<th width="290">登录者</th><th width="323">登录次数</th>
+<th width="600">登录者</th><th width="690">登录次数</th>
 </tr>
 <tr>
 <td>李弟诚</td><td>max</td>
