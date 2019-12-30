@@ -12,7 +12,7 @@ caption{
 	padding-bottom:15px;
 }
 tr{
-	front-size:13px;
+	front-size:15px;
 	background-color:#F63;
 	color:#003;
 }
@@ -23,11 +23,11 @@ th{
 	background-color:#FC9;
 }
 table{
-	width:600px;
+	width:1000px;
 	margin-top:0px;
-	margin-right:20px;
+	margin-right:0px;
 	margin-bottom:0px;
-	margin-left:20px;
+	margin-left:0px;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
@@ -42,10 +42,10 @@ tr:hover td{
 </style>
 </head>
 <body>
-<table  border="4">
+<table width="635"  border="4">
 <caption>黑山羊</caption>
 <tr>
-<th width="290">登录者</th><th width="288">登录次数</th>
+<th width="290">登录者</th><th width="323">登录次数</th>
 </tr>
 <tr>
 <td>李弟诚</td><td>max</td>
