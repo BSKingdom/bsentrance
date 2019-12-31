@@ -26,7 +26,7 @@ th{
 table{
 	width:635px;
 	margin-top:0px;
-	margin-right:50px;
+	margin-right:100px;
 	margin-bottom:0px;
 	margin-left:100px;
 	text-align:center;
