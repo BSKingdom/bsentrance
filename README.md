@@ -28,9 +28,9 @@ th{
 table{
 	
 	margin-top:0px;
-	margin-right:150px;
+	margin-right:auto;
 	margin-bottom:0px;
-	margin-left:80px;
+	margin-left:auto;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
@@ -67,31 +67,4 @@ tr:hover td{
 </table>
 
 </body>
-</html>
-
-
-
-
-<doctype html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-</head>
-
-<body>
-<form action="">
-  <p> 账户&nbsp;&nbsp;
-    <input type="text" name="user" size="20" maxlength="15">
-    <br>
-     密码&nbsp;&nbsp;
-    <input type="password" name="password" size=20  maxlength="15">
-    <br>
-  <input type="submit" value="登录" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <input type="reset" value="重置">
-  <br>
-  </p>
-
-</form>
-</body>
-
 </html>
