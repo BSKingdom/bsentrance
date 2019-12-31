@@ -28,7 +28,7 @@ table{
 	margin-top:0px;
 	margin-right:50px;
 	margin-bottom:0px;
-	margin-left:200px;
+	margin-left:100px;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
