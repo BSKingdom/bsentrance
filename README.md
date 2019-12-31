@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-< 头>
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>BSKING</title>
 <meta charset="gb2312">
@@ -25,9 +25,9 @@ th{
 table{
 	width:635px;
 	margin-top:0px;
-	margin-right:0px;
+	margin-right:50px;
 	margin-bottom:0px;
-	margin-left:0px;
+	margin-left:50px;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
