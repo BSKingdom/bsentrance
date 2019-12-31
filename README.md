@@ -26,7 +26,7 @@ th{
 	background-color:#FC9;
 }
 table{
-	width:635px;
+	
 	margin-top:0px;
 	margin-right:150px;
 	margin-bottom:0px;
@@ -46,13 +46,14 @@ tr:hover td{
 </head>
 <body background="http://m.qpic.cn/psc?/V12UAMRI2mMdfh/F1H7YF3BXM1Q*sygiHZL4csuTtoZZtVmouhbD26KMCtUrhxkbN9VciMo1pDNV7QTjQuFzts7Uo.b3CvwO97uiwv9w8R2HhFHaF21ot.7A6I!/b&bo=gAKAAYACgAERBzA!&rf=viewer_4">
 
-<table width="635" border="4">
+<table border="4">
+
   <caption>
     黑山羊
   </caption>
   <tr>
-    <th scope="col">登录者</th>
-    <th scope="col">登录次数</th>
+    <th width="218" scope="col">登录者</th>
+    <th width="506" scope="col">登录次数</th>
   </tr>
   <tr>
     <td>李弟诚</td>
@@ -66,4 +67,31 @@ tr:hover td{
 </table>
 
 </body>
+</html>
+
+
+
+
+<doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+<form action="">
+  <p> 账户&nbsp;&nbsp;
+    <input type="text" name="user" size="20" maxlength="15">
+    <br>
+     密码&nbsp;&nbsp;
+    <input type="password" name="password" size=20  maxlength="15">
+    <br>
+  <input type="submit" value="登录" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <input type="reset" value="重置">
+  <br>
+  </p>
+
+</form>
+</body>
+
 </html>
