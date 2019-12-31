@@ -26,9 +26,9 @@ th{
 table{
 	width:635px;
 	margin-top:0px;
-	margin-right:100px;
+	margin-right:150px;
 	margin-bottom:0px;
-	margin-left:100px;
+	margin-left:80px;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
@@ -53,10 +53,10 @@ tr:hover td{
 
 </tr>
 <tr>
-<td>李弟诚</td><td>max</td>
+<td>李弟诚</td><td>winner</td>
 </tr>
 <tr class="hui">
-<td>高启东</td><td>sec</td>
+<td>高启东</td><td>2th</td>
 </tr>
 </table>
 
