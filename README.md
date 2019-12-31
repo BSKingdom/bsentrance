@@ -6,8 +6,6 @@
 <meta charset="gb2312">
 <meta charset="iso-8859-1" />
 <style>
-body {text-align: center;}
- table {margin: auto;}
 caption{
 	front-size :13px;
 	color:#FFF;
