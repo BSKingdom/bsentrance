@@ -49,7 +49,7 @@ tr:hover td{
 </caption>
 <tr>
 
-<th width="350">登录者</th><th width="600">登录次数</th>
+<th width="400">登录者</th><th width="690">登录次数</th>
 
 </tr>
 <tr>
