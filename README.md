@@ -8,6 +8,7 @@
 <style>
 caption{
 	front-size :13px;
+	color:#FFF;
 	front-family:"黑体", "宋体";
 	padding-bottom:15px;
 }
@@ -27,7 +28,7 @@ table{
 	margin-top:0px;
 	margin-right:50px;
 	margin-bottom:0px;
-	margin-left:50px;
+	margin-left:500px;
 	text-align:center;
 	background-color:#F63;
 	front-size:9pt;
