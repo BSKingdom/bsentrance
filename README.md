@@ -1,70 +1,36 @@
-<!doctype html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>BSKING</title>
-<meta charset="gb2312">
-<meta charset="iso-8859-1" />
 <style>
-body {text-align: center;}
- table {margin: auto;}
+tr:hover td{
+	background-color:#F93;
+}
 caption{
 	front-size :13px;
 	color:#FFF;
 	front-family:"黑体", "宋体";
 	padding-bottom:15px;
 }
-tr{
-	front-size:15px;
-	background-color:#F63;
-	color:#003;
-}
-th{
-	padding:6px;
-}
-.hui td{
-	background-color:#FC9;
-}
-table{
-	
-	margin-top:0px;
-	margin-right:auto;
-	margin-bottom:0px;
-	margin-left:auto;
-	text-align:center;
-	background-color:#F63;
-	front-size:9pt;
-}
-td{
-	padding:5px;
-	background-color:#FFF;
-}
-tr:hover td{
-	background-color:#F93;
-}
+body {text-align: center;} table {margin: auto;}
 </style>
 </head>
 <body background="http://m.qpic.cn/psc?/V12UAMRI2mMdfh/F1H7YF3BXM1Q*sygiHZL4csuTtoZZtVmouhbD26KMCtUrhxkbN9VciMo1pDNV7QTjQuFzts7Uo.b3CvwO97uiwv9w8R2HhFHaF21ot.7A6I!/b&bo=gAKAAYACgAERBzA!&rf=viewer_4">
-
-<table border="4">
-
+<table width="500" border="4">
   <caption>
     黑山羊
   </caption>
-  <tr>
-    <th width="218" scope="col">登录者</th>
-    <th width="506" scope="col">登录次数</th>
+  <tr bgcolor="#FF6600">
+    <th scope="col" >登录者</th>
+    <th scope="col">登陆排名</th>
   </tr>
-  <tr>
-    <td>李弟诚</td>
-    <td>winner</td>
+  <tr bgcolor="#FFFFFF">
+    <td align="center">李弟诚</td>
+    <td align="center">winner</td>
   </tr>
-  <tr class="hui">
-    <td>高启东</td>
-    <td>2th</td>
-    
+  <tr bgcolor="#FC9">
+    <td align="center">高启东</td>
+    <td align="center">2th</td>
   </tr>
 </table>
-
 </body>
 </html>
