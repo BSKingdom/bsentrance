@@ -82,10 +82,10 @@ tr:hover td{
 
 </tr>
 <tr>
-<td>李弟诚</td><td>max</td>
+<td>李弟诚</td><td>sec</td>
 </tr>
 <tr class="hui">
-<td>高启东</td><td>sec</td>
+<td>高启东</td><td>max</td>
 </tr>
 </table>
 
